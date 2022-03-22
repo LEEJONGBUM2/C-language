@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4604657d-b732-4fcd-b8b1-8ecf3535ac51": {
+      "ProjectGuid": "4604657d-b732-4fcd-b8b1-8ecf3535ac51",
+      "DisplayName": "a01_변수",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "88704ba4-44ce-4a8e-8f79-7c01f31a2bbe": {
+      "ProjectGuid": "88704ba4-44ce-4a8e-8f79-7c01f31a2bbe",
+      "DisplayName": "a02_입력",
+      "ColorIndex": 1
+    },
+    "dd3ad430-6ab4-4916-b16a-958af52725d4": {
+      "ProjectGuid": "dd3ad430-6ab4-4916-b16a-958af52725d4",
+      "DisplayName": "a03_연산자",
+      "ColorIndex": 2
+    },
+    "9d1ad288-d699-4d65-8a1d-be1a6ec76dca": {
+      "ProjectGuid": "9d1ad288-d699-4d65-8a1d-be1a6ec76dca",
+      "DisplayName": "a04_문자열",
+      "ColorIndex": 3
+    },
+    "2e6ba9c8-ef97-4a8d-b57f-f318b2d710eb": {
+      "ProjectGuid": "2e6ba9c8-ef97-4a8d-b57f-f318b2d710eb",
+      "DisplayName": "a05_조건",
+      "ColorIndex": 4
+    },
+    "da827e52-0b4d-46e0-b1b0-37499cb1231e": {
+      "ProjectGuid": "da827e52-0b4d-46e0-b1b0-37499cb1231e",
+      "DisplayName": "a06_반복",
+      "ColorIndex": 5
+    },
+    "c366ca25-5141-4644-918b-201f10250506": {
+      "ProjectGuid": "c366ca25-5141-4644-918b-201f10250506",
+      "DisplayName": "a07_함수",
+      "ColorIndex": 6
+    },
+    "697871e5-59d4-4a94-bceb-59ab5a110a79": {
+      "ProjectGuid": "697871e5-59d4-4a94-bceb-59ab5a110a79",
+      "DisplayName": "a08_배열",
+      "ColorIndex": 7
+    },
+    "2cd51b2d-26e9-47bb-a1d1-74092ec787b4": {
+      "ProjectGuid": "2cd51b2d-26e9-47bb-a1d1-74092ec787b4",
+      "DisplayName": "a09_포인터",
+      "ColorIndex": 8
+    },
+    "be7fda24-8254-4dd5-98f1-620aab914580": {
+      "ProjectGuid": "be7fda24-8254-4dd5-98f1-620aab914580",
+      "DisplayName": "a10_소스파일관리",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

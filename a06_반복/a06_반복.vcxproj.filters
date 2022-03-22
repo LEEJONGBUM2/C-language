@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\while">
+      <UniqueIdentifier>{dbd5953e-4eff-42bd-ab21-689ae26734d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\for">
+      <UniqueIdentifier>{156bca0b-4bb8-4c8b-8df2-9505db615b8b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="whileEx.c">
+      <Filter>Resource Files\while</Filter>
+    </ClCompile>
+    <ClCompile Include="whileEx2.c">
+      <Filter>Resource Files\while</Filter>
+    </ClCompile>
+    <ClCompile Include="whileEx3.c">
+      <Filter>Resource Files\while</Filter>
+    </ClCompile>
+    <ClCompile Include="do~while.c">
+      <Filter>Resource Files\while</Filter>
+    </ClCompile>
+    <ClCompile Include="forEx.c">
+      <Filter>Resource Files\for</Filter>
+    </ClCompile>
+    <ClCompile Include="forEx2.c">
+      <Filter>Resource Files\for</Filter>
+    </ClCompile>
+    <ClCompile Include="star.c">
+      <Filter>Resource Files\for</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
